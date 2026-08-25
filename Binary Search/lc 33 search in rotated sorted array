@@ -1,0 +1,45 @@
+algo :
+
+find mid 
+
+check if nums[0] <= nums[mid] ?
+if yes : 
+        check if target is in left side array , then 
+                yes : high = mid -1 
+                no  : low  = mid +1
+
+if no : then definietly right side array is sorted,then 
+        check if target is in the right side array 
+                if yes : low = mid+1
+                no : high = mid -1 
+
+
+code :
+
+class Solution {
+public:
+    int search(vector<int>& nums, int target) {
+    int n =  nums.size();
+    int low = 0;
+    int high = n-1;
+    int mid = -1;
+
+    while (low<=high){
+    mid = low + ((high-low)/2);
+
+    if (nums[mid] == target {
+    return mid ;
+    }
+    if(nums[0] <= nums [mid])
+  {
+    if (nums[0] < = target && target <= nums[mid])
+    high = mid -1;
+    else{
+    low = mid +1;
+  }
+
+
+
+    }
+};
+ 
