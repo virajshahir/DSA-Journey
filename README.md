@@ -26,6 +26,7 @@ C++
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/virajshahir/DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/virajshahir/DSA-Journey/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/virajshahir/DSA-Journey/tree/master/0031-next-permutation) |
 | [3483-unique-3-digit-even-numbers](https://github.com/virajshahir/DSA-Journey/tree/master/3483-unique-3-digit-even-numbers) |
@@ -52,5 +53,10 @@ C++
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/virajshahir/DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/virajshahir/DSA-Journey/tree/master/0031-next-permutation) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/virajshahir/DSA-Journey/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
