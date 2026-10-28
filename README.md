@@ -29,6 +29,7 @@ C++
 | [0011-container-with-most-water](https://github.com/virajshahir/DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/virajshahir/DSA-Journey/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/virajshahir/DSA-Journey/tree/master/0031-next-permutation) |
+| [0209-minimum-size-subarray-sum](https://github.com/virajshahir/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/virajshahir/DSA-Journey/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
@@ -79,6 +80,7 @@ C++
 ## Binary Search Tree
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/virajshahir/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/virajshahir/DSA-Journey/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -96,4 +98,12 @@ C++
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/virajshahir/DSA-Journey/tree/master/0022-generate-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/virajshahir/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/virajshahir/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
