@@ -35,6 +35,7 @@ C++
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/virajshahir/DSA-Journey/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/virajshahir/DSA-Journey/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/virajshahir/DSA-Journey/tree/master/0022-generate-parentheses) |
 ## Trie
@@ -48,6 +49,7 @@ C++
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/virajshahir/DSA-Journey/tree/master/0010-regular-expression-matching) |
 | [3483-unique-3-digit-even-numbers](https://github.com/virajshahir/DSA-Journey/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -90,6 +92,7 @@ C++
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/virajshahir/DSA-Journey/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/virajshahir/DSA-Journey/tree/master/0022-generate-parentheses) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/virajshahir/DSA-Journey/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Backtracking
