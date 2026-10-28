@@ -31,6 +31,7 @@ C++
 | [0031-next-permutation](https://github.com/virajshahir/DSA-Journey/tree/master/0031-next-permutation) |
 | [0209-minimum-size-subarray-sum](https://github.com/virajshahir/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/virajshahir/DSA-Journey/tree/master/3483-unique-3-digit-even-numbers) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/virajshahir/DSA-Journey/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## String
 |  |
 | ------- |
@@ -90,6 +91,7 @@ C++
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/virajshahir/DSA-Journey/tree/master/0022-generate-parentheses) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/virajshahir/DSA-Journey/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Backtracking
 |  |
 | ------- |
@@ -106,4 +108,12 @@ C++
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/virajshahir/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/virajshahir/DSA-Journey/tree/master/3882-minimum-xor-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/virajshahir/DSA-Journey/tree/master/3882-minimum-xor-path-in-a-grid) |
 <!---LeetCode Topics End-->
