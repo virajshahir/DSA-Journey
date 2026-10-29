@@ -50,6 +50,7 @@ C++
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/virajshahir/DSA-Journey/tree/master/0010-regular-expression-matching) |
+| [0143-reorder-list](https://github.com/virajshahir/DSA-Journey/tree/master/0143-reorder-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/virajshahir/DSA-Journey/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -60,6 +61,7 @@ C++
 | ------- |
 | [0011-container-with-most-water](https://github.com/virajshahir/DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/virajshahir/DSA-Journey/tree/master/0031-next-permutation) |
+| [0143-reorder-list](https://github.com/virajshahir/DSA-Journey/tree/master/0143-reorder-list) |
 ## Greedy
 |  |
 | ------- |
@@ -67,6 +69,7 @@ C++
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/virajshahir/DSA-Journey/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/virajshahir/DSA-Journey/tree/master/0225-implement-stack-using-queues) |
 ## Design
 |  |
@@ -119,4 +122,8 @@ C++
 |  |
 | ------- |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/virajshahir/DSA-Journey/tree/master/3882-minimum-xor-path-in-a-grid) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/virajshahir/DSA-Journey/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
