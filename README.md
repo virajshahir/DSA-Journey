@@ -31,6 +31,7 @@ C++
 | [0031-next-permutation](https://github.com/virajshahir/DSA-Journey/tree/master/0031-next-permutation) |
 | [0054-spiral-matrix](https://github.com/virajshahir/DSA-Journey/tree/master/0054-spiral-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/virajshahir/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/virajshahir/DSA-Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/virajshahir/DSA-Journey/tree/master/3483-unique-3-digit-even-numbers) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/virajshahir/DSA-Journey/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## String
@@ -132,4 +133,8 @@ C++
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/virajshahir/DSA-Journey/tree/master/0054-spiral-matrix) |
+## Math
+|  |
+| ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/virajshahir/DSA-Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 <!---LeetCode Topics End-->
