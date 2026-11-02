@@ -85,15 +85,18 @@ C++
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/virajshahir/DSA-Journey/tree/master/0098-validate-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/virajshahir/DSA-Journey/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/virajshahir/DSA-Journey/tree/master/0098-validate-binary-search-tree) |
 | [0209-minimum-size-subarray-sum](https://github.com/virajshahir/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/virajshahir/DSA-Journey/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/virajshahir/DSA-Journey/tree/master/0098-validate-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/virajshahir/DSA-Journey/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
@@ -143,4 +146,8 @@ C++
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/virajshahir/DSA-Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/virajshahir/DSA-Journey/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
