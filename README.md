@@ -35,6 +35,7 @@ C++
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/virajshahir/DSA-Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/virajshahir/DSA-Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/virajshahir/DSA-Journey/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/virajshahir/DSA-Journey/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/virajshahir/DSA-Journey/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/virajshahir/DSA-Journey/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## String
@@ -51,6 +52,7 @@ C++
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/virajshahir/DSA-Journey/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/virajshahir/DSA-Journey/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Recursion
 |  |
 | ------- |
@@ -108,6 +110,7 @@ C++
 | ------- |
 | [0010-regular-expression-matching](https://github.com/virajshahir/DSA-Journey/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/virajshahir/DSA-Journey/tree/master/0022-generate-parentheses) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/virajshahir/DSA-Journey/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/virajshahir/DSA-Journey/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Backtracking
 |  |
@@ -121,6 +124,7 @@ C++
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/virajshahir/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/virajshahir/DSA-Journey/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -147,6 +151,7 @@ C++
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/virajshahir/DSA-Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/virajshahir/DSA-Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/virajshahir/DSA-Journey/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/virajshahir/DSA-Journey/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sorting
 |  |
@@ -160,4 +165,8 @@ C++
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/virajshahir/DSA-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/virajshahir/DSA-Journey/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 <!---LeetCode Topics End-->
