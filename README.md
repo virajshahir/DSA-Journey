@@ -34,6 +34,7 @@ C++
 | [0209-minimum-size-subarray-sum](https://github.com/virajshahir/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/virajshahir/DSA-Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/virajshahir/DSA-Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/virajshahir/DSA-Journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/virajshahir/DSA-Journey/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/virajshahir/DSA-Journey/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/virajshahir/DSA-Journey/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -69,6 +70,7 @@ C++
 | [0011-container-with-most-water](https://github.com/virajshahir/DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/virajshahir/DSA-Journey/tree/master/0031-next-permutation) |
 | [0143-reorder-list](https://github.com/virajshahir/DSA-Journey/tree/master/0143-reorder-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/virajshahir/DSA-Journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -99,6 +101,7 @@ C++
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/virajshahir/DSA-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0209-minimum-size-subarray-sum](https://github.com/virajshahir/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/virajshahir/DSA-Journey/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/virajshahir/DSA-Journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Tree
 |  |
 | ------- |
@@ -157,6 +160,7 @@ C++
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/virajshahir/DSA-Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/virajshahir/DSA-Journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Depth-First Search
 |  |
 | ------- |
