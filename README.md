@@ -34,6 +34,7 @@ C++
 | [0209-minimum-size-subarray-sum](https://github.com/virajshahir/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/virajshahir/DSA-Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/virajshahir/DSA-Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1267-count-servers-that-communicate](https://github.com/virajshahir/DSA-Journey/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/virajshahir/DSA-Journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/virajshahir/DSA-Journey/tree/master/2747-count-zero-request-servers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/virajshahir/DSA-Journey/tree/master/3483-unique-3-digit-even-numbers) |
@@ -143,6 +144,7 @@ C++
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/virajshahir/DSA-Journey/tree/master/0054-spiral-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/virajshahir/DSA-Journey/tree/master/1267-count-servers-that-communicate) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/virajshahir/DSA-Journey/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Linked List
 |  |
@@ -169,6 +171,7 @@ C++
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/virajshahir/DSA-Journey/tree/master/0098-validate-binary-search-tree) |
+| [1267-count-servers-that-communicate](https://github.com/virajshahir/DSA-Journey/tree/master/1267-count-servers-that-communicate) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -177,4 +180,16 @@ C++
 |  |
 | ------- |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/virajshahir/DSA-Journey/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/virajshahir/DSA-Journey/tree/master/1267-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/virajshahir/DSA-Journey/tree/master/1267-count-servers-that-communicate) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/virajshahir/DSA-Journey/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
