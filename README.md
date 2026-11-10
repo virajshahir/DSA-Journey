@@ -40,6 +40,7 @@ C++
 | [2747-count-zero-request-servers](https://github.com/virajshahir/DSA-Journey/tree/master/2747-count-zero-request-servers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/virajshahir/DSA-Journey/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/virajshahir/DSA-Journey/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3693-climbing-stairs-ii](https://github.com/virajshahir/DSA-Journey/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/virajshahir/DSA-Journey/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/virajshahir/DSA-Journey/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## String
@@ -119,6 +120,7 @@ C++
 | [0010-regular-expression-matching](https://github.com/virajshahir/DSA-Journey/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/virajshahir/DSA-Journey/tree/master/0022-generate-parentheses) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/virajshahir/DSA-Journey/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3693-climbing-stairs-ii](https://github.com/virajshahir/DSA-Journey/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/virajshahir/DSA-Journey/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Backtracking
 |  |
