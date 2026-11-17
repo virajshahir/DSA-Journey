@@ -52,6 +52,7 @@ C++
 | [0010-regular-expression-matching](https://github.com/virajshahir/DSA-Journey/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/virajshahir/DSA-Journey/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/virajshahir/DSA-Journey/tree/master/0022-generate-parentheses) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/virajshahir/DSA-Journey/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Trie
 |  |
 | ------- |
@@ -80,6 +81,7 @@ C++
 | [0031-next-permutation](https://github.com/virajshahir/DSA-Journey/tree/master/0031-next-permutation) |
 | [0143-reorder-list](https://github.com/virajshahir/DSA-Journey/tree/master/0143-reorder-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/virajshahir/DSA-Journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/virajshahir/DSA-Journey/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Greedy
 |  |
 | ------- |
@@ -124,6 +126,7 @@ C++
 | ------- |
 | [0010-regular-expression-matching](https://github.com/virajshahir/DSA-Journey/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/virajshahir/DSA-Journey/tree/master/0022-generate-parentheses) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/virajshahir/DSA-Journey/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/virajshahir/DSA-Journey/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/virajshahir/DSA-Journey/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/virajshahir/DSA-Journey/tree/master/3882-minimum-xor-path-in-a-grid) |
