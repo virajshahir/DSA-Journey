@@ -39,6 +39,7 @@ C++
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/virajshahir/DSA-Journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/virajshahir/DSA-Journey/tree/master/2747-count-zero-request-servers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/virajshahir/DSA-Journey/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/virajshahir/DSA-Journey/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/virajshahir/DSA-Journey/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/virajshahir/DSA-Journey/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/virajshahir/DSA-Journey/tree/master/3483-unique-3-digit-even-numbers) |
@@ -53,6 +54,7 @@ C++
 | [0014-longest-common-prefix](https://github.com/virajshahir/DSA-Journey/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/virajshahir/DSA-Journey/tree/master/0022-generate-parentheses) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/virajshahir/DSA-Journey/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/virajshahir/DSA-Journey/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Trie
 |  |
 | ------- |
@@ -62,6 +64,7 @@ C++
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/virajshahir/DSA-Journey/tree/master/0219-contains-duplicate-ii) |
 | [2747-count-zero-request-servers](https://github.com/virajshahir/DSA-Journey/tree/master/2747-count-zero-request-servers) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/virajshahir/DSA-Journey/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/virajshahir/DSA-Journey/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/virajshahir/DSA-Journey/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Recursion
@@ -107,6 +110,7 @@ C++
 | [0098-validate-binary-search-tree](https://github.com/virajshahir/DSA-Journey/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/virajshahir/DSA-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/virajshahir/DSA-Journey/tree/master/0701-insert-into-a-binary-search-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/virajshahir/DSA-Journey/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -188,6 +192,7 @@ C++
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/virajshahir/DSA-Journey/tree/master/0098-validate-binary-search-tree) |
 | [1267-count-servers-that-communicate](https://github.com/virajshahir/DSA-Journey/tree/master/1267-count-servers-that-communicate) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/virajshahir/DSA-Journey/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Divide and Conquer
 |  |
 | ------- |
