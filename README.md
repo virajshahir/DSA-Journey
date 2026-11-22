@@ -110,6 +110,7 @@ C++
 | [0098-validate-binary-search-tree](https://github.com/virajshahir/DSA-Journey/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/virajshahir/DSA-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/virajshahir/DSA-Journey/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/virajshahir/DSA-Journey/tree/master/0199-binary-tree-right-side-view) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/virajshahir/DSA-Journey/tree/master/0701-insert-into-a-binary-search-tree) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/virajshahir/DSA-Journey/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Search Tree
@@ -126,6 +127,7 @@ C++
 | [0098-validate-binary-search-tree](https://github.com/virajshahir/DSA-Journey/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/virajshahir/DSA-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/virajshahir/DSA-Journey/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/virajshahir/DSA-Journey/tree/master/0199-binary-tree-right-side-view) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/virajshahir/DSA-Journey/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
@@ -194,6 +196,7 @@ C++
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/virajshahir/DSA-Journey/tree/master/0098-validate-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/virajshahir/DSA-Journey/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/virajshahir/DSA-Journey/tree/master/0199-binary-tree-right-side-view) |
 | [1267-count-servers-that-communicate](https://github.com/virajshahir/DSA-Journey/tree/master/1267-count-servers-that-communicate) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/virajshahir/DSA-Journey/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Divide and Conquer
@@ -208,6 +211,7 @@ C++
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/virajshahir/DSA-Journey/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/virajshahir/DSA-Journey/tree/master/0199-binary-tree-right-side-view) |
 | [1267-count-servers-that-communicate](https://github.com/virajshahir/DSA-Journey/tree/master/1267-count-servers-that-communicate) |
 ## Union-Find
 |  |
