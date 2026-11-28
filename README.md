@@ -51,6 +51,7 @@ C++
 | [3882-minimum-xor-path-in-a-grid](https://github.com/virajshahir/DSA-Journey/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3934-smallest-unique-subarray](https://github.com/virajshahir/DSA-Journey/tree/master/3934-smallest-unique-subarray) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/virajshahir/DSA-Journey/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/virajshahir/DSA-Journey/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## String
 |  |
 | ------- |
@@ -96,6 +97,7 @@ C++
 | ------- |
 | [0011-container-with-most-water](https://github.com/virajshahir/DSA-Journey/tree/master/0011-container-with-most-water) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/virajshahir/DSA-Journey/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/virajshahir/DSA-Journey/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Stack
 |  |
 | ------- |
@@ -207,6 +209,7 @@ C++
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/virajshahir/DSA-Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/virajshahir/DSA-Journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/virajshahir/DSA-Journey/tree/master/2747-count-zero-request-servers) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/virajshahir/DSA-Journey/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -223,6 +226,7 @@ C++
 |  |
 | ------- |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/virajshahir/DSA-Journey/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/virajshahir/DSA-Journey/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
